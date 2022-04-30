@@ -1,0 +1,52 @@
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.head{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    height: 200px;
+    width: 700px;
+
+}
+
+.setInput{
+    width: 150px;
+    height: 60px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.setInput::placeholder{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.settime{
+    height: 60px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.settime::placeholder{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button1{
+width: 100px;
+font-size: 20px;
+background-color: brown;
+color: aliceblue;
+}

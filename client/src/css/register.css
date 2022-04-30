@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.registration{
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+    width: 400px;
+    height: auto;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    margin: 20px;
+}
+
+.div1{
+    margin: 10px;
+    
+}
+
+.setInout{
+    width:300px;
+   height: 30px;
+   border-radius: 10px;
+   text-align: center;
+   font-size: 16px;  
+ 
+    
+
+}
+label{
+    font-size: 18px;
+    color: blueviolet;
+    text-transform: capitalize;
+
+}
+.para{
+    font-size: 4rem;
+    font-weight: bolder;
+    color: blue;
+    text-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+    text-transform: capitalize;
+}
+
+.button2{
+
+
+    width:60%;
+    height: 40px;
+    margin: 20px;
+    background-color: darkseagreen;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 18px;
+
+
+}
